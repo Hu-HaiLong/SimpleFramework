@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: a1d3f6acb96bbed429be8f987b9caf78
+timeCreated: 1504502259
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: MYoungHKS
+  fontNames:
+  - MYoungHKS
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
